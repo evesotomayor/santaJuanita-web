@@ -1,0 +1,1 @@
+<? php  header ( 'Ubicación: /archivos/index.html' );  ?>
